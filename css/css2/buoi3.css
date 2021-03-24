@@ -1,0 +1,12 @@
+.box-person {
+    display: flex;
+    flex-direction: column;
+}
+.info-person {
+    display: flex;
+    flex-direction: row;
+}
+.name-age {
+    display: flex;
+    flex-direction: column;
+}
